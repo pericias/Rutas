@@ -117,7 +117,7 @@ st.markdown("""
 # Descripción de la herramienta
 st.markdown("""
     <div class="tool-description">
-        <p>Esta aplicación, diseñada por Marcelo G. Montiel, Analista Universitario de Sistemas - Universidad Tecnológica Nacional, tiene como objetivo principal ofrecer una visualización mejorada de los datos de rutas exportados de Google. Su interfaz gráfica facilita una lectura y análisis más eficientes de las ubicaciones y trayectorias. Incluye funcionalidades técnicas, como el cálculo de hashes, lo cual es de particular relevancia en el ámbito de las Pericias Informáticas para la verificación de la integridad de los datos. El código fuente de esta herramienta está disponible para aquellos interesados en su estudio y aplicación.</p>
+        <p>Esta aplicación, diseñada por Marcelo G. Montiel, Analista Universitario de Sistemas - Universidad Tecnológica Nacional, Especialista en Pericias Informáticas, tiene como objetivo principal ofrecer una visualización mejorada de los datos de rutas exportados de Google. Su interfaz gráfica facilita una lectura y análisis más eficientes de las ubicaciones y trayectorias. Incluye funcionalidades técnicas, como el cálculo de hashes, lo cual es de particular relevancia en el ámbito de las Pericias Informáticas para la verificación de la integridad de los datos. El código fuente de esta herramienta está disponible para aquellos interesados en su estudio y aplicación.</p>
         <p><strong>"Que la sabiduría no sea humillación para tú prójimo. Omar Khayyam".</strong></p>
     </div>
 """, unsafe_allow_html=True)
